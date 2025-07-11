@@ -27,8 +27,8 @@ Este proyecto tiene como objetivo aplicar y comparar distintos modelos de clasif
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/chr1zS/TFM_Comparativa_Algoritmos.git
+cd TFM_Comparativa_Algoritmos
 ```
 
 ### 2. Crear un entorno virtual
