@@ -26,7 +26,9 @@ Este proyecto tiene como objetivo aplicar y comparar distintos modelos de clasif
 ## 2. ¿Cómo ejecutar este proyecto?
 
 ## 2.1 Ejecución desde Google Colab
-Ir al siguiente enlace o pulsado el botón "Go in Colab" (Usar Google Chrome para la ejecución):
+
+Ir al siguiente enlace o pulsado el botón "Open in Colab" (Usar Google Chrome para la ejecución):
+https://colab.research.google.com/github/chr1zS/TFM_Comparativa_Algoritmos/blob/main/Comparativa_Algoritmos_Aprendizaje_Automatico.ipynb
 <p align="center">
   <a href="https://colab.research.google.com/github/chr1zS/TFM_Comparativa_Algoritmos/blob/main/Comparativa_Algoritmos_Aprendizaje_Automatico.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Google Colab"/>
