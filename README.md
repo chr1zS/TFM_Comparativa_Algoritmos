@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo aplicar y comparar distintos modelos de clasif
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 | Archivo / Carpeta | Descripción |
 |-------------------|-------------|
@@ -25,25 +25,37 @@ Este proyecto tiene como objetivo aplicar y comparar distintos modelos de clasif
 
 ##  ¿Cómo ejecutar este proyecto?
 
-### 1. Clonar el repositorio
+## Ejecución desde Google Colab
+Ir al siguiente enlace o pulsado el botón "Go in Colab" (Usar Google Chrome para la ejecución):
+<p align="center">
+  <a href="https://colab.research.google.com/github/chr1zS/TFM_Comparativa_Algoritmos/blob/main/Comparativa_Algoritmos_Aprendizaje_Automatico.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Google Colab"/>
+  </a>
+</p>
+
+Esperar a que Colab conecte con un entorno de ejecución y luego pulsar el botón "Ejecutar Todas"
+
+## 2. Ejecución desde un ordenador
+
+#### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/chr1zS/TFM_Comparativa_Algoritmos.git
 cd TFM_Comparativa_Algoritmos
 ```
 
-### 2. Crear un entorno virtual
+#### 2. Crear un entorno virtual
 ```bash
 python -m venv venv
 source venv/bin/activate  # En Linux/Mac
 venv\Scripts\activate     # En Windows
 ```
 
-### 3. Instalar dependencias
+#### 3. Instalar dependencias
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Ejecutar el Nnotebook
+#### 4. Ejecutar el Nnotebook
 ```bash
 jupyter notebook Comparativa_Algoritmos_Aprendizaje_automatico.ipynb
 ```
