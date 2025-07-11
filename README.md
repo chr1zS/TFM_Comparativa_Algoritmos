@@ -1,4 +1,5 @@
-# Comparativa de Algoritmos de Aprendizaje Automático para la Predicción de Cáncer de Colon
+<img src="https://www.unir.net/wp-content/uploads/2019/11/Unir_2021_logo.svg" width="240" height="240" align="right"/>
+<h1 align="center">Comparativa de Algoritmos de Aprendizaje Automático para la Predicción de Cáncer de Colon</h1>
 
 Este proyecto tiene como objetivo aplicar y comparar distintos modelos de clasificación supervisada para predecir la probabilidad de padecer **cáncer de colon** a partir del consumo diario de **carbohidratos**, **azúcares** y **alcohol**, utilizando datos del sistema NHANES. Además, se presenta un ejemplo práctico de predicción personalizada para un paciente hipotético.
 
@@ -107,10 +108,10 @@ A partir de estos datos, el modelo entrenado estima la **probabilidad de padecer
 
 ## Licencia
 
-Proyecto desarrollado por **Christian SUARZE HEUVAN**  
-**Universidad Internacional de La Rioja (UNIR)**  
-**Año: 2025**
+Este proyecto se encuentra bajo licencia **GNU General Public License v3.0**  
+Desarrollado por **Christian SUARZE HEUVAN**  
+**Universidad Internacional de La Rioja (UNIR)** – Año: 2025
 
-Este proyecto puede utilizarse para fines académicos, educativos y de investigación.  
-No se autoriza su uso con fines comerciales sin autorización expresa.
+Puedes consultar el texto completo de la licencia en el archivo [`LICENSE`](./LICENSE).
+
 
