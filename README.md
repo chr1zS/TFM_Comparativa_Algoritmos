@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo aplicar y comparar distintos modelos de clasif
 
 ---
 
-## Estructura del Repositorio
+## 1. Estructura del Repositorio
 
 | Archivo / Carpeta | Descripción |
 |-------------------|-------------|
@@ -23,9 +23,9 @@ Este proyecto tiene como objetivo aplicar y comparar distintos modelos de clasif
 
 ---
 
-##  ¿Cómo ejecutar este proyecto?
+## 2. ¿Cómo ejecutar este proyecto?
 
-## Ejecución desde Google Colab
+## 2.1 Ejecución desde Google Colab
 Ir al siguiente enlace o pulsado el botón "Go in Colab" (Usar Google Chrome para la ejecución):
 <p align="center">
   <a href="https://colab.research.google.com/github/chr1zS/TFM_Comparativa_Algoritmos/blob/main/Comparativa_Algoritmos_Aprendizaje_Automatico.ipynb" target="_blank">
@@ -35,34 +35,34 @@ Ir al siguiente enlace o pulsado el botón "Go in Colab" (Usar Google Chrome par
 
 Esperar a que Colab conecte con un entorno de ejecución y luego pulsar el botón "Ejecutar Todas"
 
-## 2. Ejecución desde un ordenador
+## 2.2 Ejecución desde un ordenador
 
-#### 1. Clonar el repositorio
+#### 2.2.1 Clonar el repositorio
 ```bash
 git clone https://github.com/chr1zS/TFM_Comparativa_Algoritmos.git
 cd TFM_Comparativa_Algoritmos
 ```
 
-#### 2. Crear un entorno virtual
+#### 2.2.2 Crear un entorno virtual
 ```bash
 python -m venv venv
 source venv/bin/activate  # En Linux/Mac
 venv\Scripts\activate     # En Windows
 ```
 
-#### 3. Instalar dependencias
+#### 2.2.3 Instalar dependencias
 ```bash
 pip install -r requirements.txt
 ```
 
-#### 4. Ejecutar el Nnotebook
+#### 2.2.4 Ejecutar el Nnotebook
 ```bash
 jupyter notebook Comparativa_Algoritmos_Aprendizaje_automatico.ipynb
 ```
 
 ---
 
-## Objetivos del Proyecto
+## 3. Objetivos del Proyecto
 
 El objetivo principal de este proyecto es aplicar técnicas de aprendizaje automático para predecir la probabilidad de que un individuo padezca **cáncer de colon** a partir del consumo diario de tres variables nutricionales clave:
 
@@ -74,7 +74,7 @@ Se entrena una serie de modelos clasificadores utilizando un dataset derivado de
 
 ---
 
-## Modelos Utilizados
+## 4. Modelos Utilizados
 
 Se implementaron y compararon los siguientes algoritmos de clasificación supervisada:
 
@@ -87,7 +87,7 @@ Los modelos fueron entrenados sobre un conjunto de datos balanceado y, cuando fu
 
 ---
 
-## Métricas de Evaluación
+## 5. Métricas de Evaluación
 
 La evaluación de los modelos se realizó utilizando varias métricas estándar para clasificación binaria, con el objetivo de obtener una visión completa del rendimiento de cada algoritmo:
 
@@ -101,7 +101,7 @@ Las métricas fueron visualizadas mediante gráficos y tablas comparativas para 
 
 ---
 
-## Ejemplo de Predicción
+## 6. Ejemplo de Predicción
 
 El proyecto incluye un ejemplo de predicción personalizada para un paciente hipotético con el siguiente perfil nutricional:
 
@@ -113,7 +113,7 @@ A partir de estos datos, el modelo entrenado estima la **probabilidad de padecer
 
 ---
 
-## Referencias Nutricionales
+## 7. Referencias Nutricionales
 
 | Nutriente        | Recomendación diaria        | Consumo de riesgo                 |
 |------------------|-----------------------------|-----------------------------------|
@@ -125,7 +125,7 @@ A partir de estos datos, el modelo entrenado estima la **probabilidad de padecer
 
 ---
 
-## Licencia
+## 8. Licencia
 
 Este proyecto se encuentra bajo licencia **GNU General Public License v3.0**  
 Desarrollado por **Christian SUARZE HEUVAN**  
