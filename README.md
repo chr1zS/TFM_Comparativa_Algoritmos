@@ -1,6 +1,12 @@
-<img src="https://www.unir.net/wp-content/uploads/2019/11/Unir_2021_logo.svg" width="240" height="240" align="right"/>
+<p align="center">
+  <img src="https://www.unir.net/wp-content/uploads/2019/11/Unir_2021_logo.svg" width="150" alt="UNIR Logo"/>
+</p>
 
 <h1 align="center">Comparativa de Algoritmos de Aprendizaje Automático para la Predicción de Cáncer de Colon</h1>
+
+<p align="center">
+  Trabajo académico de Christian SUARZE HEUVAN - UNIR (2025)
+</p>
 
 Este proyecto tiene como objetivo aplicar y comparar distintos modelos de clasificación supervisada para predecir la probabilidad de padecer **cáncer de colon** a partir del consumo diario de **carbohidratos**, **azúcares** y **alcohol**, utilizando datos del sistema NHANES. Además, se presenta un ejemplo práctico de predicción personalizada para un paciente hipotético.
 
