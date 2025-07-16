@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 #### 2.2.4 Ejecutar el Nnotebook
 ```bash
-jupyter notebook Comparativa_Algoritmos_Aprendizaje_automatico.ipynb
+jupyter notebook Comparativa_Algoritmos_Aprendizaje_Automatico.ipynb
 ```
 
 ---
