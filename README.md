@@ -16,7 +16,7 @@ Este proyecto tiene como objetivo aplicar y comparar distintos modelos de clasif
 
 | Archivo / Carpeta | Descripción |
 |-------------------|-------------|
-| `Comparativa_Algoritmos_Aprendizaje_automatico.ipynb` | Notebook principal con el flujo completo: carga de datos, limpieza, balanceo, entrenamiento de modelos, evaluación y predicción individual. |
+| `Comparativa_Algoritmos_Aprendizaje_Automatico.ipynb` | Notebook principal con el flujo completo: carga de datos, limpieza, balanceo, entrenamiento de modelos, evaluación y predicción individual. |
 | `dataset/` | (Opcional) Carpeta para guardar los archivos NHANES utilizados como fuente de datos. |
 | `requirements.txt` | Lista de dependencias necesarias para ejecutar el proyecto. |
 | `README.md` | Este archivo, con toda la información del proyecto. |
